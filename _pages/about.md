@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-[Illustration](/
-images/profile.png){: .align-right width="300px"}
+[Illustration](/images/profile.png){: .align-right width="300px"}
 
 I am a Ph.D. candidate as part of the Center for Learning Systems (CLS). My research is done at the Max Planck Institute for Intelligent Systems (MPI) and ETH Zurich.
 
