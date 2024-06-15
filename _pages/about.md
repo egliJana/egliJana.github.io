@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-<img src="/images/eyecatcher.png" alt="Illustration" style="float: right; width: 300px;">
+<div style="overflow: hidden;">
+  <img src="/images/eyecatcher.png" alt="Illustration" style="float: right; width: 200px; margin-top: 0;">
+</div>
 
 I am a Ph.D. candidate as part of the Center for Learning Systems (CLS). My research is done at the Max Planck Institute for Intelligent Systems (MPI) and ETH Zurich.
 
